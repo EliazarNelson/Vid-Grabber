@@ -30,4 +30,4 @@ proxy option, so if your browser/server setup requires the proxy to work these w
   
 Enjoy!
 
-John
+Eliazar Nelson
