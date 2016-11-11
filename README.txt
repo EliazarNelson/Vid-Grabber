@@ -1,7 +1,7 @@
 Project: Vid Grabber
 Author: Eliazar Nelson
 
-License: GPL v2 or Later
+License: GPL v3 or Later
 
 PHP Scripts to download videos from Vine, Dailymotion, and YouTube.  
 
